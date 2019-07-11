@@ -1,5 +1,4 @@
 holaa 
 saludos
-modificacion en rama master
-volvemos a modificar el leeme para hacer un commit
-
+hemos viajado al pasado a solucionar un problema 
+y a crear otros seis, probablemente
